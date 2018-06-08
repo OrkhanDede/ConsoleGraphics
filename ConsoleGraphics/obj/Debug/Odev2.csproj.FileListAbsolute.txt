@@ -1,0 +1,15 @@
+c:\users\kadir\documents\visual studio 2015\Projects\Odev2\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\Odev2\Odev2\bin\Debug\Odev2.exe
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\Odev2\Odev2\bin\Debug\Odev2.pdb
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\Odev2\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\Odev2\Odev2\obj\Debug\Odev2.exe
+C:\Users\Kadir\Documents\Visual Studio 2015\Projects\Odev2\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Kadir\Desktop\b161210553\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\Kadir\Desktop\b161210553\Odev2\obj\Debug\Odev2.exe
+C:\Users\Kadir\Desktop\b161210553\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Orkhan-pc\Desktop\b161210553\Odev2\bin\Debug\Odev2.exe.config
+C:\Users\Orkhan-pc\Desktop\b161210553\Odev2\obj\Debug\Odev2.exe
+C:\Users\Orkhan-pc\Desktop\b161210553\Odev2\obj\Debug\Odev2.pdb
+C:\Users\Orkhan-pc\Desktop\b161210553\Odev2\bin\Debug\Odev2.exe
+C:\Users\Orkhan-pc\Desktop\b161210553\Odev2\bin\Debug\Odev2.pdb
+C:\Users\Orkhan-pc\Desktop\b161210553\Odev2\obj\Debug\Odev2.csprojResolveAssemblyReference.cache

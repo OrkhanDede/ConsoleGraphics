@@ -1,0 +1,9 @@
+C:\Users\Orkhan-pc\Desktop\b161210553\ConsoleGrapics\bin\Debug\Odev2.exe.config
+C:\Users\Orkhan-pc\Desktop\b161210553\ConsoleGrapics\obj\Debug\Odev2.exe
+C:\Users\Orkhan-pc\Desktop\b161210553\ConsoleGrapics\obj\Debug\Odev2.pdb
+C:\Users\Orkhan-pc\Desktop\b161210553\ConsoleGrapics\bin\Debug\Odev2.exe
+C:\Users\Orkhan-pc\Desktop\b161210553\ConsoleGrapics\bin\Debug\Odev2.pdb
+C:\Users\Orkhan-pc\Desktop\b161210553\ConsoleGrapics\obj\Debug\ConsoleGrapics.csprojResolveAssemblyReference.cache
+G:\Projects\c#\ConsoleGraphics\ConsoleGrapics\bin\Debug\Odev2.exe.config
+G:\Projects\c#\ConsoleGraphics\ConsoleGrapics\obj\Debug\Odev2.exe
+G:\Projects\c#\ConsoleGraphics\ConsoleGrapics\obj\Debug\Odev2.pdb
